@@ -57,7 +57,7 @@ me = (blue+red+'[🔴] Pilih Tools⏩')
 oh= time.sleep(1)
 
 
-class Repot3:
+class NKAnonymous:
  def __init__(self):
      oh
      print (white+'  [[1]]⏩'+green+' Auto Report FB-v3')
