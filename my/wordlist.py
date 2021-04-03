@@ -1,6 +1,6 @@
 #!/usr/bin/python
 # coding=utf-8
-#//Coded By Pangeran Alvins
+#//Coded By ANONYMOUS
 '''Mau Ngapain Cok !!
 '''
 
