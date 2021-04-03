@@ -35,7 +35,7 @@ class banner:
 ---------------------------------+
 ---T-O-O-L-S---W-O-R-D-L-I-S-T---|
 ---------------------------------+"""+red+blue+"""                 
-  # Wordlist Creating 2021      |
+  # Wordlist Creating 2021       |
   # Create By ANONYMOUS          |  
   # YouTube : NKAnonymous        |
   # WhatsApp : 12345678890999    |
