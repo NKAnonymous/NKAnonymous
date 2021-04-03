@@ -112,7 +112,7 @@ class NKAnonymous:
      print
      inn2 = raw_input(me+(''))
      if(inn2=='1'):
-         fbreport.NKAnonymous()
+         fbNKAnonymous.NKAnonymous()
      elif(inn2=='2'):
          print (red+'[🔴]Tunggu Update Berikutnya')
          exit()
