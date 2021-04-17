@@ -37,7 +37,7 @@ idd = ("10124483838383")
 duma = ("===========================================")
 savefile = ("ids.txt")
 banner= blue+red+"""____________  ______                      _   
-|  ___| ___ \ | ___ \  ANONYMOUS         | |  
+|  ___| ___ \ | ___ \  NUMAN KHANX       | |  
 | |_  | |_/ / | |_/ /___ _ __   ___  _ __| |_ 
 |  _| | ___ \ |    // _ \ '_ \ / _ \| '__| __|
 | |   | |_/ / | |\ \  __/ |_) | (_) | |  | |_ 
@@ -47,10 +47,10 @@ banner= blue+red+"""____________  ______                      _
 ---T-O-O-L-S---F-A-C-E-B-O-O-K---P-R-I-V-A-T-E---
 -------------------------------------------------
   # FBReport Tools Private
-  # Create By ANONYMOUS      """+blue+blue+"""            
-  # YouTube : ANONYMOUS          
-  # WhatsApp : 1234567890            
-  # Facebook:  ANONYMOUS
+  # Create By NUMAN KHANX      """+blue+blue+"""            
+  # YouTube : SiLent LovEr ツ         
+  # instagram : Khanxnuman           
+  # Facebook:  khanxnuman
 -------------------------------------------------"""
 print banner
 me = (blue+red+'[🔴] Pilih Tools⏩')
