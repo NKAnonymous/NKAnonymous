@@ -1,7 +1,7 @@
-# $: git clone https://github.com/NK_Professor.git
-# $: cd NK_Professor
+# $: git clone https://github.com/NKAnonymous.git
+# $: cd NKAnonymous
 # $: bash install.sh
-# $: python2 NK_Professor.py
+# $: python2 NKAnonymous.py
 
 
 
